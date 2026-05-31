@@ -37,9 +37,9 @@ navigation:
 
 # Site settings
 locale: "en-GB"
-url: "https://emilystokes.github.io"  # update with her actual GitHub username
+url: "https://leduckwillcarry.github.io"
 baseurl: ""
-repository: "emilystokes/emilystokes.github.io"  # update with actual username
+repository: "LeDuckWillCarry/leduckwillcarry.github.io"
 
 # Build settings
 markdown: kramdown
